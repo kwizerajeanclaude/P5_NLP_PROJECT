@@ -1,2 +1,1 @@
-# P5_NLP_PROJECT
-Natural language processing
+# Azubi-Africa--P5-Natural-Language-Processing-Project-Sentiment-Analysis
